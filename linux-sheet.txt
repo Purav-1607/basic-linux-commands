@@ -1,0 +1,317 @@
+    1  ls
+    2  cd Favorites/
+    3  mkdir sit209
+    4  cd sit209/
+    5  mkdir topic1
+    6  cd topic1/
+    7  git init
+    8  git status
+    9  code .
+   10  git status
+   11  git add IOT-applications.html
+   12  git status
+   13  git commit -m "NEW: Add main webpage'
+   14  git commit -m "NEW: Add main webpage'
+   15  git commit -m "NEW: Add main webpage"
+   16  git status
+   17  git commit -m "NEW: Add main webpage"
+   18  git add IOT-applications.html
+   19  git status
+   20  git commit -m "NEW: Add main webpage"
+   21  git config --global user.email "purav4783.be21@chitkara.edu.in"
+   22  git config --global user.name "purav makkar"
+   23  git commit -m "NEW: Add main webpage"
+   24  git remote add origin https://github.com/Purav-1607/topic1.git
+   25  git push -u origin main
+   26  git push -u origin master
+   27  ls
+   28  git add .
+   29  git commit -m "Added CSS"
+   30  git remote -v
+   31  git push
+   32  cd
+   33  destop
+   34  cd
+   35  PURAV
+   36  LS
+   37  cd favorities
+   38  cd Favorites/
+   39  ls
+   40  cd sit209/
+   41  ls
+   42  mkdir topic2
+   43  cd topic2
+   44  code .
+   45  git init
+   46  git status
+   47  git add server.js 
+   48  git add package.json 
+   49  git add package-lock.json 
+   50  git add node_modules/
+   51  git commit -m "NEW: Add main webpage"
+   52  git remote add origin https://github.com/Purav-1607/topic10.git
+   53  git push origin master
+   54  git push origin master
+   55  git push origin master
+   56  git push origin master
+   57  git remote remove origin
+   58  git remote add origin https://github.com/purav-makkar/topic10.git
+   59  git push origin master
+   60  git status
+   61  git push -u origin master
+   62  git remote remove origin
+   63  git remote add origin https://github.com/purav-makkar/topic10.git
+   64  git push -u origin master
+   65  git -v
+   66  git add .
+   67  git commit -m "hh"
+   68  git push -u origin master
+   69  git remote remove origin
+   70  git remote add origin git@github.com:purav-makkar/topic10.git
+   71  git push -u origin master
+   72  git remote remove origin
+   73  git remote add origin https://github.com/purav-makkar/topic10.git
+   74  git push -u origin master
+   75  git init
+   76  cd
+   77  cd Favorites/sit209/topic10a
+   78  npm init
+   79  npm install express
+   80  git init
+   81  git status
+   82  git add .
+   83  git remote add origin https://github.com/purav-makkar/topic10.git
+   84  git commit -m "new fils"
+   85  git push -u origin master
+   86  git push -u origin master
+   87  git push -u origin master
+   88  cd
+   89  cd Favorites/sit209/
+   90  mkdir topic10
+   91  cd topic10
+   92  npm init
+   93  npm install express
+   94  git init
+   95  git remote add origin https://github.com/Purav-1607/topic10.git
+   96  touch server.js
+   97  git status
+   98  git add .
+   99  git commit -m "topic10"
+  100  git push -u origin master
+  101  git remote remove origin
+  102  git remote add origin https://github.com/purav-makkar/topic10.git
+  103  git push -u origin master
+  104  cd ..
+  105  cd ..
+  106  cd C:\Users\PURAV\Favorites\sit209\topic10
+  107  cd Users/PURAV/Favorites/sit209/topic10/
+  108  git init
+  109  git remote add origin https://github.com/Purav-1607/Topic10.git
+  110  ld
+  111  ls
+  112  cd Desktop
+  113  cd desktop
+  114  cd Downloads
+  115  git clone https://github.com/burakorkmez/mern-chat-app.git
+  116  git clone https://github.com/burakorkmez/mern-chat-app.git
+  117  cd ..
+  118  cd Documents 
+  119  git clone https://github.com/burakorkmez/mern-chat-app.git
+  120  open 
+  121  open .
+  122  ls
+  123  cd mern-chat-app
+  124  code .
+  125  open .
+  126  o .
+  127  git config --edit
+  128  cd Documents
+  129  ls
+  130  cd mern-chat-app
+  131  pwd
+  132  ls
+  133  ls _l
+  134  ls _l
+  135  ls -l
+  136  ls -a
+  137  cd
+  138  cd documents
+  139  cd/
+  140  cd.
+  141  cd /
+  142  cd .
+  143  cd ~
+  144  nkdlr
+  145  nkdlr
+  146  cd documents
+  147  nkdlr new folder
+  148  nklrd
+  149  nkdir new folder
+  150  cd ~
+  151  nkdir new folder
+  152  nkdir
+  153  mkdir
+  154  mkdir new folder
+  155  mkdir purav
+  156  cd purav
+  157  touch Helloworld.java
+  158  cd ~
+  159  rmdir purav
+  160  rmdir new folder
+  161  r -r purav
+  162  rm -r purav
+  163  nano Helloworld.java
+  164  javac
+  165  javac Helloworld.java
+  166  javac Hello world.java
+  167  nano Helloworld.java
+  168  javac Helloworld.java
+  169  javac Hellow world.java
+  170  java Helloworld 
+  171  nano Helloworld.java
+  172  javac Hellow world.java
+  173  nano Helloworld.java
+  174  java Helloworld 
+  175  java --version
+  176  javac Hellow world.java
+  177  java --version
+  178  java --version
+  179  java --version
+  180  java --version
+  181  java -version
+  182  javac Hellow world.java
+  183  ls
+  184  cd my_workspace
+  185  mkdir my_workspace
+  186  cd my_workspace
+  187  nano HelloWorld.java
+  188  javac HelloWorld.java 
+  189  java --version
+  190  java -version
+  191  ls
+  192  cd Documents/
+  193  ls
+  194  ls
+  195  cd 
+  196  cd my_workspace
+  197  javac HelloWorld.java 
+  198  nano java 
+  199  nano HelloWorld.java
+  200  y
+  201  javac HelloWorld.java 
+  202  cd my_workspace
+  203  nano HelloWorld.java
+  204  javac HelloWorld.java 
+  205  nano HelloWorld.java
+  206  ls
+  207  cd my_workspace
+  208  nano HelloWorld.java
+  209  javac HelloWorld.java 
+  210  n
+  211  ls
+  212  cd my_workspace
+  213  nano HelloWorld.java
+  214  javac HelloWorld.java 
+  215  javac
+  216  java -version
+  217  java -version
+  218  java -version
+  219  java -version
+  220  ls
+  221  cd my_workspace
+  222  nano HelloWorld.java
+  223  javac HelloWorld.java 
+  224  JAVA HELLO
+  225  cd my_workspace
+  226  nano HelloWorld.java
+  227  javac HelloWorld.java 
+  228  git in it 
+  229  gitinit
+  230  git init
+  231  git remote add origin 
+  232  git remote origin [200~https://github.com/Purav-1607/helloworld.git~
+  233  git checkout -M main
+  234  git checkout -b main
+  235  git status 
+  236  git add .
+  237  git status
+  238  git commit -m "[purav] ADD: Helloworld.class
+  239  Helloworld.java
+  240  . c
+  241  c .
+  242  c ~
+  243  java -version
+  244  javac HelloWorld.java 
+  245  pwd
+  246  ls
+  247  ls -a
+  248  ls -l
+  249  mkdir i_workspace
+  250  cd i_workspace
+  251  cd ..
+  252  cd i_workspace
+  253  cd ~
+  254  cd i_workspace
+  255  mkdir abc def
+  256  ls
+  257  touch file.txt
+  258  cat file
+  259  cat file.txt
+  260  nano file.txt
+  261  cat file.txt
+  262  ls
+  263  nv file.txt  abc/
+  264  mv file.txt abc/
+  265  cd abc/
+  266  ls
+  267  pwd
+  268  cd ..
+  269  cd def
+  270  cd ..
+  271  cd abc
+  272  cd ..
+  273  cd abc edf
+  274  cp abc edf
+  275  cp -r abc edf
+  276  ls
+  277  cp -r abc def
+  278  cd def
+  279  ls
+  280  rmdir abc
+  281  rm -r abc
+  282  ls
+  283  cd ~
+  284  cd abc
+  285  cd i_workspace
+  286  cd abc
+  287  cd ..
+  288  mv -r abc der
+  289  mv abc def
+  290  ls
+  291  rmdir edf
+  292  cd edf
+  293  ls
+  294  cd ..
+  295  cd def
+  296  lsd
+  297  s
+  298  ls
+  299  cd abc/
+  300  ls
+  301  rm -r edf
+  302  cd..
+  303  cd ..
+  304  cd ..
+  305  rm -r edf
+  306  cd def
+  307  cd abc
+  308  rm file.txt 
+  309  cd ..
+  310  rmdir abc
+  311  ls
+  312  history
+  313  history > linux-sheet.txt
+  314  c ~
+  315  cd ~
+  316  cd i_workspace/
+  317  history > linux-sheet.txt
